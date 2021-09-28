@@ -1,0 +1,14 @@
+h1 {
+	font-size: 45px;
+	color: cornflowerblue;
+	text-shadow: 4px 4px lightpink;
+}
+p {
+	font-size: 25px;
+	color: indianred;
+	font-weight: bold;
+}
+footer {
+	font-size: 5px;
+	color: floralwhite;
+}
